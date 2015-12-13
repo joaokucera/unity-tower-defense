@@ -1,6 +1,6 @@
 # A tower defense game made with unity (v 5.2.2) #
 
-It's a repository for a prototype made in a day. Feel free to download, there isn't no license, no condition, just download it and use as you want. I hope this help you to study unity.
+It's a repository for a prototype made in a weekend. Feel free to download, there isn't no license, no condition, just download it and use as you want. I hope this help you to study unity.
 
 #### Demo
 
@@ -18,4 +18,4 @@ Licensed under the MIT License.
 
 ##### Change Log
 
-0.0.1 - Playable version.
+0.0.1 - Full prototype.
